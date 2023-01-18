@@ -1,0 +1,11 @@
+com\example\project\many\entity\AuthorEntity.class
+com\example\project\many\mapper\BookMapper.class
+com\example\project\many\entity\BookEntity.class
+com\example\project\many\repository\BookRepository.class
+com\example\project\many\model\Author.class
+com\example\project\many\ProjectManyApplication.class
+com\example\project\many\service\BookService.class
+com\example\project\many\controller\BookController.class
+com\example\project\many\model\Book.class
+com\example\project\many\mapper\BookMapperImpl.class
+com\example\project\many\model\BookResponse.class

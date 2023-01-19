@@ -17,6 +17,8 @@ public class BookService {
     private final BookMapper bookMapper;
     private final BookRepository bookRepository;
 
+    //comment for jenkins auto build up
+
     public BookService(BookMapper bookMapper, BookRepository bookRepository) {
         this.bookMapper = bookMapper;
         this.bookRepository = bookRepository;
